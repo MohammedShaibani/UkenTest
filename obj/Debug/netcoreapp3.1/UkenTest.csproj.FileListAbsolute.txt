@@ -1,0 +1,13 @@
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.exe
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.deps.json
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.runtimeconfig.json
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.runtimeconfig.dev.json
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.dll
+C:\Users\there\source\repos\UkenTest\bin\Debug\netcoreapp3.1\UkenTest.pdb
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.csprojAssemblyReference.cache
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.AssemblyInfo.cs
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.dll
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.pdb
+C:\Users\there\source\repos\UkenTest\obj\Debug\netcoreapp3.1\UkenTest.genruntimeconfig.cache
